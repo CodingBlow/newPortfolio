@@ -99,9 +99,7 @@ export const skills = [
       },
       {
         name: "GitHub",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
+        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/git.png?raw=true" },
     ],
   },
 ];
