@@ -2,7 +2,7 @@ export const Bio = {
   name: "Farhan Raza",
   roles: ["Data Analyst", "Full Stack Developer", "Programmer"],
   description:
-    "A Data Analyst with Power BI uses Microsoft's tool to turn data into clear visuals and insights to help businesses make informed decisions. They clean, analyze, and present data using Power BI.",
+    "Data Analyst proficient in Power BI and Tableau with a strong full-stack development background. Skilled at transforming data into actionable insights and integrating visualizations into software systems for informed decision-making.",
   github: "https://github.com/CodingBlow",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
@@ -18,10 +18,14 @@ export const skills = [
     skills: [
       {
         name: "Excel",
-        image:"https://raw.githubusercontent.com/CodingBlow/newPortfolio/main/src/images/excel.png"},
+        image:
+          "https://raw.githubusercontent.com/CodingBlow/newPortfolio/main/src/images/excel.png",
+      },
       {
         name: "Python",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/python.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/python.png?raw=true",
+      },
       {
         name: "Power BI",
         image:
@@ -29,30 +33,44 @@ export const skills = [
       },
       {
         name: "Tableau",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/tableau.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/tableau.png?raw=true",
+      },
       {
         name: "SQL",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/sql.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/sql.png?raw=true",
+      },
       {
         name: "Jupyter Notebook",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/Jup.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/Jup.png?raw=true",
+      },
       {
         name: "Matplotlib",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/mat.png?raw=true"},
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/mat.png?raw=true",
+      },
       {
         name: "Spreadsheets",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/spreedsheets.png?raw=true",
       },
       {
         name: "NumPy",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/nump.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/nump.png?raw=true",
+      },
       {
         name: "Pandas",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/pandass.png?raw=true"},
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/pandass.png?raw=true",
+      },
       {
         name: "SAS",
-        image:'https://github.com/CodingBlow/newPortfolio/blob/main/src/images/sas.png?raw=true'  },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/sas.png?raw=true",
+      },
     ],
   },
   {
@@ -85,21 +103,29 @@ export const skills = [
       },
       {
         name: "Tailwind CSS",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/tailwind.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/tailwind.png?raw=true",
+      },
       {
         name: "Node JS",
-        image:'https://github.com/CodingBlow/newPortfolio/blob/main/src/images/Nodejs.png?raw=true'  },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/Nodejs.png?raw=true",
+      },
       {
         name: "Express JS",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/express.png?raw=true"  },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/express.png?raw=true",
+      },
       {
         name: "Database",
         image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/database.png?raw=true",
       },
       {
         name: "GitHub",
-        image:"https://github.com/CodingBlow/newPortfolio/blob/main/src/images/git.png?raw=true" },
+        image:
+          "https://github.com/CodingBlow/newPortfolio/blob/main/src/images/git.png?raw=true",
+      },
     ],
   },
 ];
