@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Farhan Raza",
-  roles: ["Data Analyst", "Full Stack Developer", "Programmer"],
+  roles: ["Data Analyst", "Programmer"],
   description:
     "Data Analyst proficient in Power BI and Tableau with a strong full-stack development background. Skilled at transforming data into actionable insights and integrating visualizations into software systems for informed decision-making.",
   github: "https://github.com/CodingBlow",
